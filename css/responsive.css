@@ -1,0 +1,22 @@
+@media screen and (min-width: 768px){
+
+	body{
+	}
+	#contenedor{
+		margin: 0 auto;
+		max-width: 1200px;
+	}
+
+	section {
+		display: inline-block;
+		margin-right: 0.3em;
+		width: 68%;
+	}
+
+    aside{
+		display: inline-block;
+		vertical-align: top;
+		width: 30%;
+	}
+
+}
